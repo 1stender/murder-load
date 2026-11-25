@@ -15,7 +15,7 @@ var l_displayMapGamemode = true;
 
 // Custom server name configuration
 // Leave it blank for automatic server name
-var l_serverName = "ПИПС [Murder]";
+var l_serverName = "ПИПС / Murder";
 
 // Use a video for the background?
 // Otherwise it will use images
